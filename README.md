@@ -22,7 +22,7 @@ Project developed using the following technologies:
 
 
 ## 💻 Project
-**That's an simple app notes to learn some basic React features**
+**That's an simple notes app to learn some basic React features**
 
 
 ## 💿 Instalation
